@@ -1,0 +1,65 @@
+    1  cd Desktop
+    2  cd ..
+    3  cd Documents
+    4  cd .spyder-py3
+    5  git init
+    6  git add --all
+    7  git commit -m "Header elave edildi"
+    8  git ls
+    9  ls
+   10  git commit -m "Header elave edildi"
+   11  git config --global user.email "aytacagayeva18@gmail.com"
+   12  git config --gloal user.name "Aytage"
+   13  [200~$ git config --gloal user.name "Aytage"
+   14  git config --global user.name "Aytage"
+   15  git commit -m "Header elave edildi"
+   16  git remote add origin https://github.com/Aytage/streamlit.git
+   17  cd Documents\.spyder-py3
+   18  cd ..
+   19  cd Documents
+   20  cd Aytac Agayeva
+   21  cd This PC
+   22  cd Desktop
+   23  cd Documents
+   24  cd .spyder-py3
+   25  git init
+   26  git add --all
+   27  git commit -m "New header added"
+   28  git remote add origin https://github.com/Aytage/streamlit.git
+   29  git remote add origin https://github.com/Aytage/.spyder-py3.git
+   30  git push -u origin main
+   31  git branch -M main
+   32  git push -u origin main
+   33  cd Desktop
+   34  ls
+   35  docker run -d -p 80:80 docker/getting-started
+   36  cd Desktop
+   37  ls
+   38  pwd
+   39  mkdir temp.py
+   40  mkdir temp
+   41  rmdir temp.py
+   42  ls -a
+   43  touch file.py
+   44  rm file.py
+   45  nano word.docx
+   46  cat word.docx
+   47  cat word.docx >> file.txt
+   48  cat file.txt
+   49  nano file.py
+   50  history
+   51  echo 'Hello World'
+   52  nano data
+   53  awk '{print}' data
+   54  mkdir Git
+   55  cd Git
+   56  git init
+   57  git add .
+   58  git status
+   59  git commit -m 'files added'
+   60  git status
+   61  git remote add origin https://github.com/Aytage/bigdata.git
+   62  git push -u origin master
+   63  git branch
+   64  history >> history.txt
+   65  history > git.txt
